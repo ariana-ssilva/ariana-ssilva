@@ -1,13 +1,22 @@
-### Hello World 🌎 !
+## Hello World, it's me, Ariana 🌎 !
+
+I am brazilian and a new JAVA programming student, discovering what I really like.
+
+I love to work with [HTML](https://www.w3schools.com/html/),
+[CSS](https://www.w3schools.com/css/), [Flutter](https://flutter.dev/).
 
 
+### What I'm passionate about :
 
-Here are some ideas to get you started:
+* Music
+* Books
+* Programming
 
-- 🔭 I’m currently working on IT Analist
-- 🌱 I’m currently learning JAVA + Angular
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###### (not exactly in this order)
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=ariana-ssilva"
+    alt="ariana-ssilva"
+  />
+</p>
