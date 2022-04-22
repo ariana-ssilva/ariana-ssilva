@@ -61,28 +61,8 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <center>
 
-    ![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl )
+![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl )
 
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2244oudaeu73z4y26xcrvznzy)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2244oudaeu73z4y26xcrvznzy)
 
 </center>
-
-<table> 
-    <tbody style="text-align:right">
-        <tr>
-            <td >
-
-                [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="20em" align="center" alt="Follow Ariana Moreira on LinkedIn" title="Follow Ariana Moreira on LinkedIn"/>](https://linkedin.com/in/https://www.linkedin.com/in/ariana-moreira-691a86217/)
-
-            </td>
-
-            <td>
-
-                [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="20em" align="center" alt="Follow Ariana Silva on Instagram" title="Follow Raymo111 on Instagram"/>](https://www.instagram.com/arianasilmor/)
-            </td>
-
-            <td>
-                <img src="https://komarev.com/ghpvc/?username=ariana-ssilva" alt="ariana-ssilva"/>
-            </td>
-        </tr>
-</table>
