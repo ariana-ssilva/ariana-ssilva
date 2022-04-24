@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+Ariana%F0%9F%8C%8E!)](https://git.io/typing-svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-I am 21 y.o, from Brazil and a new JAVA programming student, discovering what I really like. 
+I am 21 y.o brazilian girl and a new JAVA programming student, discovering what I really like. 
 
 <img align="right" src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="400" style="max-width: 100%;">
 
