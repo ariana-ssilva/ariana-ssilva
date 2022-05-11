@@ -63,18 +63,29 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=adobe-xd&logoColor=ff0000)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)&nbsp;
 
-<center>
+<br>
 
-![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl )
+<div align="center">
 
+
+
+
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-ssilva&layout=compact&card_width=300" alt="Top language used in my repos" />
+
+  <br>
+  
 
  ##  🏆 Trophies GitHub
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ariana-ssilva&row=1&&margin-w=30)](https://github.com/ariana-ssilva)
- 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-ssilva&layout=compact)](https://github.com/ariana-ssilva/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ariana-ssilva&row=2&&margin-w=20)](https://github.com/ariana-ssilva)
+
+  
+  <br>
+
+  ![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl )
+
+  <br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2244oudaeu73z4y26xcrvznzy)
 
-</center>
+</div>
