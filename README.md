@@ -28,6 +28,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
 
 ##### Back-end
 
@@ -50,6 +51,9 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime-black?style=flat&logo=sublime-text)&nbsp;
 ![Netbeans](https://img.shields.io/badge/-Netbeans-black?style=flat&logo=netbeans)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
+![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
+
 
 #### Versioning
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
@@ -62,6 +66,14 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 <center>
 
 ![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl )
+
+
+ ##  🏆 Trophies GitHub
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ariana-ssilva&row=1&&margin-w=30)](https://github.com/ariana-ssilva)
+ 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-ssilva&layout=compact)](https://github.com/ariana-ssilva/github-readme-stats)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2244oudaeu73z4y26xcrvznzy)
 
