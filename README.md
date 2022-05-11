@@ -67,10 +67,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <div align="center">
 
-
-
-
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-ssilva&layout=compact&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-ssilva&layout=compact&card_width=600" alt="Top language used in my repos" />
 
   <br>
   
@@ -82,7 +79,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
   
   <br>
 
-  ![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl )
+  ![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl&card_width=600 )
 
   <br>
 
