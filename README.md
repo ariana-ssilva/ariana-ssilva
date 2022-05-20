@@ -186,7 +186,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 <br>
 
 ## Random programming memes 🃏
-<img src='https://random-memer.herokuapp.com/' title="Meme" width=300px; alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' title="Meme" width=500px; alt="Please refresh the page if the meme doesn't show up.">
 
 <br>
 
