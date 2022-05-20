@@ -180,7 +180,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <!-- ![My Octocat!](/gif_img/my_octocat.png) -->
 
-<img src='../gif_img/my_octocat.png' title="Meme" width=300px;>
+<img src="/gif_img/my_octocat.png "title="Meme" width=300px;height="150px">
 
 [![Build your own clicking here](https://img.shields.io/badge/-Build%20%20yours%20-purple?style=flat&logo=github&logoColor=white)](https://myoctocat.com/)&nbsp;
 
