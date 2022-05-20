@@ -5,7 +5,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...
 I am 21 y.o brazilian girl and a new JAVA programming student, discovering what I really like. 
 
-<img align="right" src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="600" style="max-width: 100%;">
 
 I already worked in development, as a Jr. Developer, prototyping mobile apps and developing some systems.
 
@@ -19,6 +18,8 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 * Books
 * Programming
 * Learning new things in general
+  
+<img align="right" src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="200" style="max-width: 100%;">
 
 
 <details><summary>🔧 Tools I've worked</summary> 
