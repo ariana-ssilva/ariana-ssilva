@@ -184,8 +184,6 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 [![Build your own clicking here](https://img.shields.io/badge/-Build%20%20yours%20-purple?style=flat&logo=github&logoColor=white)](https://myoctocat.com/)&nbsp;
 
-</div>
-
 <br>
 
 <hr>
@@ -201,6 +199,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <br>
 
+</div>
 </p>
 </details>
 
