@@ -176,7 +176,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 ## My Octocat  🙀
 
-<div align="center"  max-width: 100vw ;width:150px;>
+<div align="center"  height="200px";width:150px;>
 
 ![My Octocat!](/gif_img/my_octocat.png)
 
