@@ -18,9 +18,12 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 * Books
 * Programming
 * Learning new things in general
-  
-<img align="center" src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="600" style="max-width: 100%;">
 
+ <p align="center"> 
+ 
+<img src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="600" style="max-width: 100%;">
+
+</p>
 <br>
 
 <details><summary>🔧 Tools I've worked</summary> 
