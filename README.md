@@ -20,7 +20,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 * Learning new things in general
 
  <p align="center"> 
- 
+
 <img src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="600" style="max-width: 100%;">
 
 </p>
@@ -176,12 +176,15 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 ## My Octocat  🙀
 
+<div align="center"  max-width: 100vw ;width:150px;>
+
 ![My Octocat!](/gif_img/my_octocat.png)
 
 
 
 [![Build your own clicking here](https://img.shields.io/badge/-Build%20%20yours%20-purple?style=flat&logo=github&logoColor=white)](https://myoctocat.com/)&nbsp;
 
+</div>
 
 <br>
 
