@@ -18,9 +18,15 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 * Programming
 * Learning new things in general
 
-#### Tools I've worked:
 
-##### Front-end
+<details><summary>🔧 Tools I've worked</summary> 
+
+ Tools I've worked:
+
+#### Front-end
+
+<hr>
+
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
@@ -30,22 +36,41 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
 
-##### Back-end
+<br>
+
+#### Back-end
+
+<hr>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp; ![Delphi](https://img.shields.io/badge/-Delphi-black?style=flat&logo=Delphi&logoColor=ff0000)&nbsp;
 
+<br>
+
 #### Database
+
+<hr>
+
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
 ![Firebird](https://img.shields.io/badge/-Firebird-black?style=flat&logo=firebird)&nbsp;
 
-##### Mobile
+<br>
+
+#### Mobile
+
+<hr>
+
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter&logoColor=13b9fd)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=green)&nbsp;
 
-##### IDE
+<br>
+
+#### IDE
+
+<hr>
+
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
@@ -54,35 +79,136 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
 ![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
 
+<br>
 
 #### Versioning
+
+<hr>
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 
+<br>
+
 #### Prototyping
+
+<hr>
+
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=adobe-xd&logoColor=ff0000)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)&nbsp;
 
 <br>
 
-<div align="center">
+</details>
 
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-ssilva&layout=compact&card_width=600" alt="Top language used in my repos" />
+<hr>
 
-  <br>
-  
+<details><summary> 📈 My GitHub Stats  </summary>
+<p>
+<p align="center">
 
- ##  🏆 Trophies GitHub
+<center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ariana-ssilva&row=2&&margin-w=20)](https://github.com/ariana-ssilva)
+## Contributions all time
 
-  
-  <br>
+</center>
+
+![Contributions all time](https://ssr-contributions-svg.vercel.app/_/ariana-ssilva?chart=3dbar&format=svg&gradient=true&theme=yellow_wine)
+
+<br>
+
+<hr>
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariana-ssilva&theme=nightowl)](https://git.io/streak-stats)
+
+<br>
+
+<hr>
+
+<br>
 
   ![Ariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariana-ssilva&show_icons=true&theme=nightowl&card_width=600 )
 
-  <br>
+<br>
+
+<hr>
+
+<br>
+
+<center>
+ 
+ ##  🏆 Trophies GitHub
+
+</center> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ariana-ssilva&theme=juicyfresh&row=2&&margin-w=20)](https://github.com/ariana-ssilva)
+
+<br>
+
+<hr>
+
+<br>
+
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-ssilva&layout=compact&card_width=600" alt="Top language used in my repos" />
+
+</p>
+</details>
+
+<hr>
+
+<details><summary>😊 Just some fun </summary>
+<p>
+<p align="center">
+
+## My Octocat  🙀
+
+![My Octocat!](/gif_img/my_octocat.png)
+
+
+<center>
+
+[![Build your own clicking here](https://img.shields.io/badge/-Build%20%20yours%20-purple?style=flat&logo=github&logoColor=white)](https://myoctocat.com/)&nbsp;
+
+
+<br>
+
+<hr>
+
+<br>
+
+## Random programming memes 🃏
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+<br>
+
+<hr>
+
+<br>
+
+</p>
+</details>
+
+<br>
+
+<div align="center">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2244oudaeu73z4y26xcrvznzy)
 
+<br>
+<br>
 </div>
+
+## Show your support 🌈
+Be sure to drop a 🌟 if you like the project!
+
+<br>
+<div align="right">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin )](https://github.com/piyushsuthar/github-readme-quotes)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ariana-ssilva)
+
+</div>
+<br> 
