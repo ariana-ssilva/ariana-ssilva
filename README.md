@@ -21,10 +21,9 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <details><summary>🔧 Tools I've worked</summary> 
 
- Tools I've worked:
-
 #### Front-end
 
+<center>
 <hr>
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
@@ -38,16 +37,20 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <br>
 
-#### Back-end
+</center>
 
+#### Back-end
+<center>
 <hr>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp; ![Delphi](https://img.shields.io/badge/-Delphi-black?style=flat&logo=Delphi&logoColor=ff0000)&nbsp;
 
 <br>
+</center>
 
 #### Database
 
+<center>
 <hr>
 
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
@@ -57,18 +60,22 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ![Firebird](https://img.shields.io/badge/-Firebird-black?style=flat&logo=firebird)&nbsp;
 
 <br>
+</center>
 
 #### Mobile
 
+<center>
 <hr>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter&logoColor=13b9fd)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=green)&nbsp;
 
 <br>
+</center>
 
 #### IDE
 
+<center>
 <hr>
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green)&nbsp;
@@ -80,25 +87,29 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
 
 <br>
+</center>
 
 #### Versioning
 
+<center>
 <hr>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 
 <br>
+</center>
 
 #### Prototyping
 
+<center>
 <hr>
 
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=adobe-xd&logoColor=ff0000)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)&nbsp;
 
 <br>
-
+</center>
 </details>
 
 <hr>
@@ -112,12 +123,6 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ## Contributions all time
 
 </center>
-
-![Contributions all time](https://ssr-contributions-svg.vercel.app/_/ariana-ssilva?chart=3dbar&format=svg&gradient=true&theme=yellow_wine)
-
-<br>
-
-<hr>
 
 <br>
 
@@ -164,22 +169,24 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 ## My Octocat  🙀
 
+<center>
+
 ![My Octocat!](/gif_img/my_octocat.png)
 
 
-<center>
 
 [![Build your own clicking here](https://img.shields.io/badge/-Build%20%20yours%20-purple?style=flat&logo=github&logoColor=white)](https://myoctocat.com/)&nbsp;
 
 
 <br>
 
+</center>
 <hr>
 
 <br>
 
 ## Random programming memes 🃏
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' title="Meme" width=300px; alt="Please refresh the page if the meme doesn't show up.">
 
 <br>
 
