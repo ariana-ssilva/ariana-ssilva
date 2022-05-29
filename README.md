@@ -1,6 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+Ariana%F0%9F%8C%8E!)](https://git.io/typing-svg)
 
 
+<a href="https://www.instagram.com/arianasilmor/">
+  <img align="left" alt="Ariana's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/ariana-moreira-691a86217/">
+  <img align="left" alt="Ariana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...
 I am 21 y.o brazilian girl and a new JAVA programming student, discovering what I really like. 
@@ -19,9 +29,9 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 * Programming
 * Learning new things in general
 
- <p align="center"> 
+<p align="center"> 
 
-<img src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="600" style="max-width: 100%;">
+<img src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="300" style="max-width: 100%;">
 
 </p>
 <br>
@@ -178,7 +188,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <div align="center"  height="200px";width:150px;>
 
-![My Octocat!](/gif_img/my_octocat.png)
+<img src=./gif_img/my_octocat.png width="300" style="max-width: 100%;">
 
 [![Build your own clicking here](https://img.shields.io/badge/-Build%20%20yours%20-purple?style=flat&logo=github&logoColor=white)](https://myoctocat.com/)&nbsp;
 
@@ -191,9 +201,10 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 ## Random programming memes 🃏
 <img src='https://random-memer.herokuapp.com/' title="Meme" width=500px; alt="Please refresh the page if the meme doesn't show up.">
 
+
 <br>
 
-<hr>
+
 
 <br>
 
@@ -201,6 +212,10 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 </p>
 </details>
 
+<hr>
+<br>
+
+## 🎧 What I've been listening to 🎧
 <br>
 
 <div align="center">
