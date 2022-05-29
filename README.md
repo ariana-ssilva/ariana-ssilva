@@ -1,18 +1,33 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+Ariana%F0%9F%8C%8E!)](https://git.io/typing-svg)
 
 
-<a href="https://www.instagram.com/arianasilmor/">
-  <img align="left" alt="Ariana's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/ariana-moreira-691a86217/">
-  <img align="left" alt="Ariana's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  
 
 <br>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...
+<div  align="left">
+
+### <img src=./gif_img/how_to_reach_me.gif width="50">  How to reach me:
+ <a href="https://www.linkedin.com/in/ariana-moreira-691a86217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/arianasilmor/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/arianaspoby/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
+ <a href="mailto:arianamoreira5021@gmail.com" mailto="mailto:arianamoreira5021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+</div>
+
+<br>
+
+
+##  A little more about me...
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> -->
 I am 21 y.o brazilian girl and a new JAVA programming student, discovering what I really like. 
 
 
