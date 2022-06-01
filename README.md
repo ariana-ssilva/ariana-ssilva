@@ -28,7 +28,7 @@
 
 ##  A little more about me...
 <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> -->
-I am 21 y.o brazilian girl and a new JAVA programming student, discovering what I really like. 
+I am 22 y.o brazilian girl and a new JAVA programming student, discovering what I really like. 
 
 
 I already worked in development, as a Jr. Developer, prototyping mobile apps and developing some systems.
