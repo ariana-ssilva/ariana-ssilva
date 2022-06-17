@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+Ariana%F0%9F%8C%8E!)](https://git.io/typing-svg)
 
 
-  
-
 <br>
 
 
@@ -46,7 +44,7 @@ Nowadays I'm focused on studying some UI/UX, how to properly use Figma and learn
 
 <p align="center"> 
 
-<img src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="300" style="max-width: 100%;">
+<img src="https://images4.programmerclick.com/764/d9/d963b866b9df02ad89b354a3b23dfafc.gif" width="500" style="max-width: 100%;">
 
 </p>
 <br>
@@ -251,5 +249,9 @@ Be sure to drop a 🌟 if you like the project!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ariana-ssilva)
 
+
+[![wakatime](https://wakatime.com/badge/github/Lipe-Albuquerque/ProjetoAula.svg)](https://wakatime.com/badge/github/Lipe-Albuquerque/ProjetoAula)
+
 </div>
 <br> 
+
