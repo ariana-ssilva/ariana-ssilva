@@ -19,6 +19,9 @@
  <a href="mailto:arianamoreira5021@gmail.com" mailto="mailto:arianamoreira5021@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
+  <a href="https://ariana-ssilva.github.io/"target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
+  </a>
 </div>
 
 <br>
